@@ -132,7 +132,7 @@ Check out all my projects:
 
 ## 🌐 Portfolio
 
-👉 **[Visit My Portfolio](https://atharva-portfolio-gray.vercel.app/)**
+👉 **[Visit My Portfolio](https://www.atharvadeshmukh-dev.space/)**
 
 ---
 
