@@ -142,7 +142,7 @@ Check out all my projects:
 
 💻 **GitHub:** [rydencrexo-stack](https://github.com/rydencrexo-stack)
 
-🌐 **Portfolio:** [atharva-portfolio-premium.vercel.app](https://atharva-portfolio-premium.vercel.app/)
+🌐 **Portfolio:** [atharvadeshmukh-dev.space](https://www.atharvadeshmukh-dev.space/)
 
 ---
 
